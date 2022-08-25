@@ -1,6 +1,6 @@
 # NTUA-Neural_Networks-21
 
-In this repo we host the notebooks from the "Neural Networks and Intelligent Systems" course of NTUA.
+In this repo we host the notebooks from the ["Neural Networks and Intelligent Systems"](https://www.ece.ntua.gr/en/undergraduate/courses/3319) course of NTUA.
 
 During the semester we worked in teams of 3 and we had to prepare 3 labs. The first was on supervised learning, the second on unsupervised learning and the third on deep learning. 
 
